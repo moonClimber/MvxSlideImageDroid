@@ -137,11 +137,11 @@ namespace MvxSlideImage.Droid
 			// aapt resource value: 0x7f050001
 			public const int MvxBindingTagUnique = 2131034113;
 			
-			// aapt resource value: 0x7f050003
-			public const int contentFrame = 2131034115;
-			
 			// aapt resource value: 0x7f050004
-			public const int imgDisplay = 2131034116;
+			public const int contentFrame = 2131034116;
+			
+			// aapt resource value: 0x7f050003
+			public const int imgDisplay = 2131034115;
 			
 			// aapt resource value: 0x7f050002
 			public const int pager = 2131034114;
@@ -169,7 +169,13 @@ namespace MvxSlideImage.Droid
 			public const int ImageFragment = 2130903042;
 			
 			// aapt resource value: 0x7f030003
-			public const int SplashScreen = 2130903043;
+			public const int SecondView = 2130903043;
+			
+			// aapt resource value: 0x7f030004
+			public const int SplashScreen = 2130903044;
+			
+			// aapt resource value: 0x7f030005
+			public const int StartView = 2130903045;
 			
 			static Layout()
 			{

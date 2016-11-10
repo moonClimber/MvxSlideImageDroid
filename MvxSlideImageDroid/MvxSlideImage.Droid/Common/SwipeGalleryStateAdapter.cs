@@ -29,10 +29,5 @@ namespace MvxSlideImage.Droid.Common
             ImageFragment f = new ImageFragment(position);
             return f;
         }
-        //public override Android.Support.V4.App.Fragment GetItem(int position)
-        //{
-        //    throw new NotImplementedException();
-        //}
-
     }
 }
