@@ -1,5 +1,5 @@
 # MvxSlideImageDroid
-Sample app for using MvvCross with FFImageLoading, PageAdapter, Fragment on Android
+Very simple app for using MvvCross with FFImageLoading, PageAdapter, Fragment on Android
 
 This project comes from different sources and its target is to merge all those sources into a unique project based on MvvmCross framework.
 Particularly, the objective is to run the PageView (a sort of PaheHub in Windows Phone) in Android, with a smart image control that can load images from an url and manage automatically a local cache.
